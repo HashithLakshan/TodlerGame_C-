@@ -1,0 +1,17 @@
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.exe
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.deps.json
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.runtimeconfig.json
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.runtimeconfig.dev.json
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.dll
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\bin\Debug\netcoreapp3.1\TodlerGame2.pdb
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.csproj.AssemblyReference.cache
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.Form1.resources
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.csproj.GenerateResource.cache
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.AssemblyInfoInputs.cache
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.AssemblyInfo.cs
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.csproj.CoreCompileInputs.cache
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.dll
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.pdb
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.genruntimeconfig.cache
+F:\Users\Administrator\Documents\Programming Saves Files\TodlerGame2\TodlerGame2\obj\Debug\netcoreapp3.1\TodlerGame2.Properties.Resources.resources
